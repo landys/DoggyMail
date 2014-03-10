@@ -1,0 +1,1 @@
+该程序运行需要.NET Framework的支持. 如果出现错误, 可能是因为.NET Framework未装, 如error.jpg错误提示, 此时请先安装.NET Framework (dotnetfx.exe).
